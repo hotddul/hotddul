@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-⛏️ Tech Stacks
+# ⛏️ Tech Stacks
 --------------------------------------------------
 
