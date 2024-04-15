@@ -1,8 +1,11 @@
 # Hi there 👋
 
 
-# ⛏️ Tech Stacks
+## ⛏️ Tech Stacks
 
-## Language | ## Game Engine
+### Language
+
+
+## Game Engine
 
 
