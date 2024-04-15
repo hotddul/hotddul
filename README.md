@@ -10,8 +10,6 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-![MousUsedLagns](https://github-readme-stats.vercel.app/api/top-langs/?username=hotddul&theme=blue-green)
-
 
 ### Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
